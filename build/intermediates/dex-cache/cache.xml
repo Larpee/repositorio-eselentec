@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\pilar_000\.android\build-cache\46bfbfead3bc5daf405de9521cde4820f6a19bd5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\pilar_000\AndroidStudioProjects\Android Basics\Multiscreen Apps\Miwok\app\build\intermediates\pre-dexed\debug\classes_84911a75cad7cdec75d31e7e4f7156bb9ed97ac1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pilar_000\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\pilar_000\AndroidStudioProjects\Android Basics\Multiscreen Apps\Miwok\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_08587c88ca9bcb1c9f72fa983342c9b4984a5c39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pilar_000\.android\build-cache\8d56de1513d3b36250838c22da232df3bfc104a1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\pilar_000\AndroidStudioProjects\Android Basics\Multiscreen Apps\Miwok\app\build\intermediates\pre-dexed\debug\classes_5e4f54fd98afa5625799e710ae8871e8f08b645c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pilar_000\.android\build-cache\938db688f0197a5c36b1fdcb86676b6dc77d659a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\pilar_000\AndroidStudioProjects\Android Basics\Multiscreen Apps\Miwok\app\build\intermediates\pre-dexed\debug\classes_3a1af74af007c491faec5b2692a3e7bb12ef868c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pilar_000\.android\build-cache\938db688f0197a5c36b1fdcb86676b6dc77d659a\output\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\pilar_000\AndroidStudioProjects\Android Basics\Multiscreen Apps\Miwok\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_9d4d79c73c2362b4d7825336375efdeebaf8ab90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pilar_000\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\pilar_000\AndroidStudioProjects\Android Basics\Multiscreen Apps\Miwok\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_6dabf1f9093c4d04a7531183ef420a82eb4de776.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pilar_000\.android\build-cache\0fa45c4812dadfc1b696396f60d0a9383782e508\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\pilar_000\AndroidStudioProjects\Android Basics\Multiscreen Apps\Miwok\app\build\intermediates\pre-dexed\debug\classes_eef6d8f3ceadca31070833012a792ecca39aef4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pilar_000\.android\build-cache\c50483497438711a11918d1d950c5ed88fe1d3bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\pilar_000\AndroidStudioProjects\Android Basics\Multiscreen Apps\Miwok\app\build\intermediates\pre-dexed\debug\classes_03c889fde378d01db9edaf09174d7f7e561246a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pilar_000\.android\build-cache\1b7f04e744f184cb63a00ba485ed18ab79518ba9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\pilar_000\AndroidStudioProjects\Android Basics\Multiscreen Apps\Miwok\app\build\intermediates\pre-dexed\debug\classes_ecaf0cba828fccaf0fdc9b675aee07cecbb3c4e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pilar_000\.android\build-cache\e0d2326c9c42e962921cb141725be2946cf1aea6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\pilar_000\AndroidStudioProjects\Android Basics\Multiscreen Apps\Miwok\app\build\intermediates\pre-dexed\debug\classes_ac19d94741085d887793cbc8cbc51a1585603a85.jar" />
+    </item>
+
+</items>
